@@ -1,3 +1,9 @@
 [submodule ".ai/ai-engineering-skills"]
 	path = .ai/ai-engineering-skills
 	url = https://github.com/ziwenL/ai-engineering-skills.git
+[submodule "NightVeil-android"]
+	path = NightVeil-android
+	url = https://github.com/ziwenL/NightVeil-android.git
+[submodule "NightVeil-iOS"]
+	path = NightVeil-iOS
+	url = https://github.com/ziwenL/NightVeil-iOS.git
